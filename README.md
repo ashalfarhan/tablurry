@@ -1,24 +1,18 @@
-# Tokopedia Adblock
+# Tablurry
 
-> I'm sick of searching product in Tokopedia and they rolled out promoted products in the search results.
+> This extension only works for Chromium browsers (including Brave and Microsoft Edge).
 
 ## Overview
 
-A chrome extension to block **Promoted Product** shown in Tokopedia search results.
+A chrome extension to make the active tab blur.
 
 ## Installation
 
-### Option 1 (Recommended)
-
-Install from the [Chrome Web Store](#).
-
-### Option 2
-
 - Clone this repo.
-- Go to Chrome's extensions page by typing `chrome://extensions` in the address bar.
+- Go to Chrome's extensions page by visiting `chrome://extensions` in your chromium browser.
 - Enable developer mode.
-- Click "Load unpacked" and select the extension's folder.
+- Click the `Load unpacked` button then point to the extension's directory.
 
 ## Usage
 
-- Click the `Tokopedia Adblock` extension icon in the top right corner of the browser.
+- Click the `Tablurry` extension icon in the top right corner of the browser.
