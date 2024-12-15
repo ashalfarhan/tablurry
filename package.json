@@ -1,0 +1,11 @@
+{
+  "name": "tablurry",
+  "version": "1.0.0",
+  "description": "Make the active tab blur",
+  "main": "background.js",
+  "author": "ashalfarhan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "^0.0.287"
+  }
+}
