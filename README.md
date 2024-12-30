@@ -9,7 +9,7 @@ A chrome extension to make the active tab blur.
 ## Installation
 
 - Clone this repo.
-- Go to Chrome's extensions page by visiting `chrome://extensions` in your chromium browser.
+- Go to Chrome's extensions page by visiting `chrome://extensions`.
 - Enable developer mode.
 - Click the `Load unpacked` button, then point to the extension's directory.
 
